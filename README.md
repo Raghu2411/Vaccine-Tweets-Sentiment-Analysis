@@ -28,3 +28,5 @@ Our sentiment analysis approach involves the following steps:
 
 Published this project's paper on the ICCR2023 (2023 International Conference Communication and Research) category under the "Medical Informatics and Applications".
 Can find the paper [here](https://public.thinkonweb.com/sites/iccr2023/proceeding).
+
+Also, more about the project information can be found [here](https://github.com/Raghu2411/Vaccine-Tweets-Sentiment-Analysis/blob/main/Project%20Report.pdf).
